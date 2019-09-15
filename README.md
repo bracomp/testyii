@@ -1,5 +1,5 @@
 # testyii
-# Временно удалены файлы, пройдите по ссылке https://github.com/bracomp/testyii2
+# Временно удалены файлы, пройдите по ссылке https://github.com/bracomp/fullyii
 
 Вход для теста :
 admin - admin или user - user.
